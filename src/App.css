@@ -40,3 +40,21 @@
 .read-the-docs {
   color: #888;
 }
+
+.imgDiv{
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+
+.imgElement1{
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+
+.imgElement1:hover{
+  will-change: filter;
+  transition: filter 300ms;
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
