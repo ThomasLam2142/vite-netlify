@@ -17,7 +17,7 @@ function App() {
         </a>
 
         <div className='imgDiv'>
-          <img src="./src/images/image1.jpg" className='imgElement1'/>
+          <img src="https://cdn.donmai.us/original/2b/69/__narita_brian_and_biwa_hayahide_umamusume_drawn_by_kuzumochi_kuzumochiya__2b69e5968c274fb05f86580e364d215d.jpg" className='imgElement1'/>
         </div>
       </div>
       <h1>Vite + React</h1>
